@@ -1,1 +1,4 @@
-print("hello datlon ")
+# variables
+x = 5
+y = "John"
+print(x)
