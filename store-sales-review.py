@@ -7,7 +7,7 @@ last_week = [2, 3, 5, 8, 4, 4, 6, 2, 9]
 
 
 totalpriceaverage_product=sum(prices)/len(prices)
-print("Total Price Average:", totalpriceaverage_product)
+print("Total Price Averages:", totalpriceaverage_product)
 
 new_price=[price - 5 for price in prices]
 print("New Prices:", new_price)
